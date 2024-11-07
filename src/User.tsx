@@ -22,18 +22,18 @@ const ProjectInfo = [
     live: true,
     technologies: ["React", "HTML", "CSS"],
     link: "https://notes-app-wine-one.vercel.app/",
-    github: "https://github.com/HimanshuRawat77/notes_app",
+    github: "https://github.com/ayu3456/NotesApp",
   },
   
   {
     title: "Reliance_Clone",
     desc: "The Reliance Digital Clone is a project I developed to improve my skills in React by recreating the functionality of a modern e-commerce platform. This app provides a realistic online shopping experience where users can browse a wide range of electronic products, add items to their cart, and proceed to checkout. Key features include user authentication with sign-up and login, allowing personalized access, a powerful search feature to quickly find products, and a smooth add-to-cart process. Through this project, I gained hands-on experience with component-based design, state management, and user authentication, enhancing my skills in building responsive, interactive web applications.",
-    image:
-      "https://raw.githubusercontent.com/kushalkumar-shaw/snap-link/main/public/Landing%20page.png",
+    // image:
+    //   "https://raw.githubusercontent.com/kushalkumar-shaw/snap-link/main/public/Landing%20page.png",
     live: true,
     technologies: ["React","HTML","Tailwind"],
     link: "https://reliance-digiinte.vercel.app/",
-    github: "hhttps://github.com/HimanshuRawat77/Reliance_Digi",
+    github: "https://github.com/ayu3456/Reliance_App_2",
   },
 ];
 
